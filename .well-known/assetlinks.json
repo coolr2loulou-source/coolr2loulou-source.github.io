@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.coolr2loulou_source.twa",
+      "sha256_cert_fingerprints": [
+        "59:01:71:BF:32:C3:DB:94:D2:2D:33:F9:08:30:C7:56:DE:A5:0D:2F:5F:89:77:92:19:33:13:88:02:22:95:4B"
+      ]
+    }
+  }
+]
